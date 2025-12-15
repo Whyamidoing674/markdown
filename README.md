@@ -35,7 +35,7 @@ Tento přístup s dvěma datovými strukturami je zvolen záměrně pro výkon.
 
 # 3. Úkol: Implementace a Testování
 
-Cíl je pochopit a úspěšně spustit příklad použití:
+## Cíl je pochopit a úspěšně spustit příklad použití:
 
 1. Stáhněte nebo zkopírujte kód do souboru (např. ``uloha_1_studenti.py``).
 1. Spusťte soubor a ověřte, že výstup odpovídá očekávané logice:
